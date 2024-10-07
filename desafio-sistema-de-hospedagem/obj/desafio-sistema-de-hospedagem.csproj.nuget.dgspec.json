@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\dotnet-project\\dotnet-project.csproj": {}
+    "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\desafio-sistema-de-hospedagem\\desafio-sistema-de-hospedagem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\dotnet-project\\dotnet-project.csproj": {
+    "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\desafio-sistema-de-hospedagem\\desafio-sistema-de-hospedagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\dotnet-project\\dotnet-project.csproj",
-        "projectName": "dotnet-project",
-        "projectPath": "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\dotnet-project\\dotnet-project.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\desafio-sistema-de-hospedagem\\desafio-sistema-de-hospedagem.csproj",
+        "projectName": "desafio-sistema-de-hospedagem",
+        "projectPath": "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\desafio-sistema-de-hospedagem\\desafio-sistema-de-hospedagem.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\dotnet-project\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\Carlos\\Projeto\\.NET\\dio-dotnet-project\\desafio-sistema-de-hospedagem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,12 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -17,20 +17,21 @@ namespace DesafioProjetoHospedagem.Models
         public void CadastrarHospedes(List<Pessoa> hospedes)
         {
            
-                // Retornar uma exception caso a capacidade seja menor que o número de hóspedes recebido
-
-                 try{
-                    if (Suite.Capacidade >= hospedes.Count)
-                    {
-                        Hospedes = hospedes;
-                    }
-                    else
-                    {
-                        throw new Exception("O número de hóspedes ultrapassa a capacidade da suíte.");
-                    }
-                    }catch (Exception e){Console.WriteLine("Erro: " + e.Message);throw;}
-
+        // Retornar uma exception caso a capacidade seja menor que o número de hóspedes recebido
+         try{
+            if (Suite.Capacidade >= hospedes.Count)
+            {
+                Hospedes = hospedes;
             }
+            else
+            {
+                throw new Exception("O número de hóspedes ultrapassa a capacidade da suíte.");
+            }
+            }catch (Exception e)
+            {
+                Console.WriteLine("Erro: " + e.Message);throw;
+            }
+        }
 
         public void CadastrarSuite(Suite suite)
         {

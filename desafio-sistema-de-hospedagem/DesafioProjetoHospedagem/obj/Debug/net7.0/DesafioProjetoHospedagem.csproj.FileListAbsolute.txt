@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.sourcelink.json
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.exe
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.deps.json
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.dll
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.pdb
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.dll
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.pdb
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\Acer\Documents\Carlos\Projeto\.NET\dio-dotnet-project\desafio-sistema-de-hospedagem\DesafioProjetoHospedagem\obj\Debug\net7.0\ref\DesafioProjetoHospedagem.dll
